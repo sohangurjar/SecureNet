@@ -46,13 +46,10 @@ body{
     justify-content: space-between;
     margin: 70px auto;
     padding: 20px;
-    border: 1px solid blue;
 }
 .hero{
-/*     margin: 0 auto; */
+    margin: 0 auto;
     margin-top: 40px;
-    width: 50%;
-    border: 1px solid red;
 }
 .hero h3{
     margin-top: 20px;
