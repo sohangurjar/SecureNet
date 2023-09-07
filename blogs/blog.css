@@ -76,28 +76,3 @@
 }
 
 
-/* footer section starts from here */
-.footer{
-    height: 80vh;
-    width: 100%;
-    background: linear-gradient(to right, #a6c1ee, #dfe0e5);
-    padding: 100px 400px;
-}
-.footer .links{
-    display: flex;
-}
-.footer .links ul{
-    margin: 50px;
-    line-height: 3em;
-    list-style: none;
-}
-.footer .links ul a{
-    text-decoration: none;
-    color: #201e3b;
-    font-weight: 600;
-    font-size: 18px;
-}
-.footer p{
-    color: #201e3b;
-    margin: 50px;
-}
