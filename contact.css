@@ -51,6 +51,7 @@ body{
 /*     margin: 0 auto; */
     margin-top: 40px;
     width: 50%;
+    border: 1px solid red;
 }
 .hero h3{
     margin-top: 20px;
